@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><svg id="Layer_1" style="enable-background:new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:none;stroke:#0C4ADA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#20BFFC;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#0C4ADA;}
+	
+		.st3{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#20BFFC;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st4{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#0C4ADA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style><polyline class="st0" points="3,12 8,12 8,28 3,28 3,16 "/><circle class="st1" cx="5.5" cy="5.5" r="2.5"/><path class="st0" d="M17,14.5V12h-5v16h5l0-7.5c0-1.9,1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5V28h5v-9.5c0-3.6-3-6.5-6.8-6.5  c-0.6,0-1.1,0.1-1.7,0.2"/></svg>
